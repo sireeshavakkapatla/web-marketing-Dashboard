@@ -28,7 +28,7 @@ patterns in user sessions, exits, bounces, and page performance across devices a
 
 **Recommendations**
 
-**Optimize Mobile Experience:**  
+**Optimize Mobile Experience:**
 - Improve mobile page layout and loading speed to reduce bounce rates.  
 - Conduct usability testing to identify mobile navigation issues.  
 **Improve Page Load Performance:**  
