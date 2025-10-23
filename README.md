@@ -1,7 +1,7 @@
 <img width="851" height="643" alt="image" src="https://github.com/user-attachments/assets/f072fa50-2c78-4aed-baa2-0040b985907e" />
 
 **Web Marketing Dashboard – Data Analytics Project**
-**Project Overview**
+**Overview**
 
 This Web Marketing Dashboard provides a comprehensive analysis of website performance metrics, helping marketing and product teams monitor user engagement, traffic behavior, and content effectiveness. The dashboard consolidates key metrics from web analytics data to uncover 
 patterns in user sessions, exits, bounces, and page performance across devices and geographies.
@@ -21,38 +21,25 @@ patterns in user sessions, exits, bounces, and page performance across devices a
 
 **Insights Summary**
 
-**Traffic Growth**: Sessions peak in October (47K), showing strong seasonal engagement trends.
-**Device Usage**: Desktop users contribute the majority of sessions, but mobile users have a higher bounce rate, indicating potential mobile UX issues.
-**Geographic Insights**: The United States leads in unique pageviews (0.19M), followed by India and France — suggesting primary markets to focus on for content and campaigns.
-**Performance Concern**: The average page load time (54 seconds) is significantly high and may negatively affect user experience and bounce rates.
+**Traffic Growth**: Sessions peak in October **(47K)**, showing strong seasonal engagement trends.  
+**Device Usage**: Desktop users contribute the majority of sessions, but mobile users have a higher bounce rate, indicating potential mobile UX issues.  
+**Geographic Insights**: The United States leads in unique pageviews **(0.19M)**, followed by India and France — suggesting primary markets to focus on for content and campaigns.  
+**Performance Concern**: The average page load time **(54 seconds)** is significantly high and may negatively affect user experience and bounce rates.  
 
 **Recommendations**
 
 **Optimize Mobile Experience:**
 - Improve mobile page layout and loading speed to reduce bounce rates.
-
-Conduct usability testing to identify mobile navigation issues.
-
-Improve Page Load Performance:
-
-Compress media and leverage caching to bring load time below 3 seconds.
-
-Monitor technical performance regularly via tools like Google PageSpeed Insights.
-
-Leverage High-Performing Pages:
-
-Repurpose or promote top pages (e.g., Page Title 496, 1827) to increase conversions.
-
-Use insights from these pages to design new high-impact content.
-
-Focus on High-Traffic Countries:
-
-Tailor localized content for the U.S., India, and France to boost engagement further.
-
-Consider multilingual SEO strategies.
-
-Enhance Exit Page Optimization:
-
-Analyze exit pages to identify where users drop off.
-
-Introduce stronger calls-to-action (CTAs) or next-step suggestions to retain users.
+- Conduct usability testing to identify mobile navigation issues.
+**Improve Page Load Performance:**
+- Compress media and leverage caching to bring load time below 3 seconds.
+- Monitor technical performance regularly via tools like Google PageSpeed Insights.
+**Leverage High-Performing Pages:**
+- Repurpose or promote top pages (e.g., Page Title 496, 1827) to increase conversions.
+- Use insights from these pages to design new high-impact content.
+**Focus on High-Traffic Countries:**
+- Tailor localized content for the U.S., India, and France to boost engagement further.
+- Consider multilingual SEO strategies.
+**Enhance Exit Page Optimization:**
+- Analyze exit pages to identify where users drop off.
+- Introduce stronger calls-to-action (CTAs) or next-step suggestions to retain users.
